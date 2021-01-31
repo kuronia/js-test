@@ -1,3 +1,3 @@
 test("test 1.", () => {
-  expect(1 + 2).toBe(5);
+  expect(1 + 2).toBe(3);
 });
